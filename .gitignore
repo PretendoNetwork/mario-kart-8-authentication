@@ -12,4 +12,12 @@
 *.out
 
 # custom
+.env
+go.work
+go.work.sum
+
+# built server
 build
+
+# logs
+log
